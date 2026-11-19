@@ -6,7 +6,7 @@ The foundational model of what exists and how entities, realms, relations, proce
 
 ## Position in the architecture
 
-This repository is one of four foundational roots under **WisdomCore (Layer 0)**. It contributes to the Wisdom Intercessor trunk and informs all eight operational branches and the Wis · Dom · Land realm experience. It is not an operational branch or a standalone commercial product.
+This repository is one of five approved foundational roots under **WisdomCore (Layer 0)**. The five roots are WisdomOntology, WisdomEpistemology, WisdomAxiology, WisdomTeleology, and WisdomPraxeology. It contributes to the Wisdom Intercessor trunk and informs all eight operational branches and the Wis · Dom · Land realm experience. It is not an operational branch or a standalone commercial product.
 
 ## Scope
 - وجود و موجود
@@ -21,6 +21,8 @@ This repository is one of four foundational roots under **WisdomCore (Layer 0)**
 - داوری ارزش‌ها و اخلاق (WisdomAxiology)
 - تصمیم و اجرای عملیاتی (WisdomPraxeology)
 
+- Purpose and ultimate ends (WisdomTeleology)
+- Operational goals, decisions and action lifecycle (WisdomPraxeology)
 ## Repository status
 
 - Status: **Foundation baseline — v0.1.0 proposal**
