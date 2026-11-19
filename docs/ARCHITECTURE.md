@@ -20,7 +20,17 @@
 - **Change service:** versioning, deprecation, impact analysis, migration notes, and history.
 - **Inter-root interfaces:** documented contracts; no hidden assumptions or duplicated authority.
 
-## 2. Root interfaces and boundaries\n\n- WisdomOntology owns canonical semantic definitions, entity and relation models.\n- WisdomEpistemology owns claim/evidence evaluation, provenance, uncertainty and knowledge revision.\n- WisdomAxiology owns values, rights, ethical criteria, trade-offs and impact evaluation.\n- WisdomTeleology owns purpose hierarchy, ultimate ends, mission/vision, long-range direction and purpose coherence.\n- WisdomPraxeology owns context-specific goals, deliberation, decisions, authorization, plans, execution, outcomes and feedback.\n\nThis repository's domain does not absorb the ownership domains listed above.\n\n## 3. Interface contract
+## 2. Root interfaces and boundaries
+
+- WisdomOntology owns canonical semantic definitions, entity and relation models.
+- WisdomEpistemology owns claim/evidence evaluation, provenance, uncertainty and knowledge revision.
+- WisdomAxiology owns values, rights, ethical criteria, trade-offs and impact evaluation.
+- WisdomTeleology owns purpose hierarchy, ultimate ends, mission/vision, long-range direction and purpose coherence.
+- WisdomPraxeology owns context-specific goals, deliberation, decisions, authorization, plans, execution, outcomes and feedback.
+
+This repository's domain does not absorb the ownership domains listed above.
+
+## 3. Interface contract
 
 Each root publishes a stable, versioned vocabulary and machine-readable registry when practical. Consumers must reference canonical identifiers, record the version used, and avoid copying definitions into conflicting local variants. Interface changes are announced through change notes and compatibility review.
 
